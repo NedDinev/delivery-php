@@ -26,5 +26,5 @@
 
 <br>Забележка: Примерен изглед за постановката и решението на задачата:
 
-<img src="src1.png">
-<img src="src2.png">
+<img src="scr1.png">
+<img src="scr2.png">
